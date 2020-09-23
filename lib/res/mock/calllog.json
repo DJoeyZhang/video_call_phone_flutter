@@ -1,0 +1,114 @@
+{
+  "errorCode": 0,
+  "errorMsg": "",
+  "data": [
+    {
+      "userId": 124,
+      "nickName": "文龙",
+      "mobile": 1562718393,
+      "serialNumber": 123123,
+      "numberType": "num",
+      "linkUserRemark": "long",
+      "avatarColor": "#ff00ff"
+    },
+    {
+      "userId": 444,
+      "nickName": "张三",
+      "mobile": 15629384719,
+      "serialNumber": 41412,
+      "numberType": "num",
+      "linkUserRemark": "三儿",
+      "avatarColor": "#00ffff"
+    },
+    {
+      "userId": 555,
+      "nickName": "张思",
+      "mobile": 1562719993,
+      "serialNumber": 1231323,
+      "numberType": "num",
+      "linkUserRemark": "si",
+      "avatarColor": "#0000ff"
+    },
+    {
+      "userId": 124,
+      "nickName": "文龙2",
+      "mobile": 1534718393,
+      "serialNumber": 123123,
+      "numberType": "num",
+      "linkUserRemark": "long",
+      "avatarColor": "#ffff00"
+    },
+    {
+      "userId": 124,
+      "nickName": "文龙",
+      "mobile": 1562718393,
+      "serialNumber": 123123,
+      "numberType": "num",
+      "linkUserRemark": "long",
+      "avatarColor": "#ff00ff"
+    },
+    {
+      "userId": 444,
+      "nickName": "张三",
+      "mobile": 15629384719,
+      "serialNumber": 41412,
+      "numberType": "num",
+      "linkUserRemark": "三儿",
+      "avatarColor": "#00ffff"
+    },
+    {
+      "userId": 555,
+      "nickName": "张思",
+      "mobile": 1562719993,
+      "serialNumber": 1231323,
+      "numberType": "num",
+      "linkUserRemark": "si",
+      "avatarColor": "#0000ff"
+    },
+    {
+      "userId": 124,
+      "nickName": "文龙2",
+      "mobile": 1534718393,
+      "serialNumber": 123123,
+      "numberType": "num",
+      "linkUserRemark": "long",
+      "avatarColor": "#ffff00"
+    },
+    {
+      "userId": 124,
+      "nickName": "文龙",
+      "mobile": 1562718393,
+      "serialNumber": 123123,
+      "numberType": "num",
+      "linkUserRemark": "long",
+      "avatarColor": "#ff00ff"
+    },
+    {
+      "userId": 444,
+      "nickName": "张三",
+      "mobile": 15629384719,
+      "serialNumber": 41412,
+      "numberType": "num",
+      "linkUserRemark": "三儿",
+      "avatarColor": "#00ffff"
+    },
+    {
+      "userId": 555,
+      "nickName": "张思",
+      "mobile": 1562719993,
+      "serialNumber": 1231323,
+      "numberType": "num",
+      "linkUserRemark": "si",
+      "avatarColor": "#0000ff"
+    },
+    {
+      "userId": 124,
+      "nickName": "文龙2",
+      "mobile": 1534718393,
+      "serialNumber": 123123,
+      "numberType": "num",
+      "linkUserRemark": "long",
+      "avatarColor": "#ffff00"
+    }
+  ]
+}
